@@ -1,0 +1,301 @@
+================================================================================
+       HAND GESTURE MUSICAL INSTRUMENT - GESTURES & SONGS REFERENCE GUIDE
+================================================================================
+
+1. GESTURE & SYMBOL REFERENCE TABLE
+--------------------------------------------------------------------------------
+NOTE   GESTURE        SYMBOL ON SCREEN          HOW TO DO THE GESTURE
+--------------------------------------------------------------------------------
+C4     Fist           Closed Fist               Curl all 5 fingers into a tight closed fist
+D4     Index Point    1 Finger (Index)          Extend only the index finger pointing up; curl all others
+E4     Peace          2 Fingers (Peace)         Extend index and middle fingers in a "V" peace sign
+F4     Three          3 Fingers                 Extend index, middle, and ring fingers (or thumb+index+mid)
+G4     Four           4 Fingers                 Extend index, middle, ring, and pinky; tuck thumb across palm
+A4     Open Palm      Open Palm (5 Fingers)     Spread all 5 fingers open wide facing the camera
+B4     Thumbs Up      Thumbs Up                 Curl all 4 fingers tightly and extend thumb straight up
+C5     Pinch          Pinch / Tip Touch         Touch the tips of your thumb and index finger together
+D5     Rock On        Rock On (Index + Pinky)   Extend index and pinky fingers; curl middle and ring
+E5     Hang Loose     Hang Loose / Shaka        Extend thumb and pinky outwards; curl middle three fingers
+F5     Gun            Gun / L-Shape             Extend thumb and index finger at a 90 degree angle
+G5     Pinky Up       Pinky Only                Extend only the pinky finger; curl all other four fingers
+A5     OK Sign        OK Sign (Circle)          Thumb and index tips touch into a circle; extend other 3 fingers
+--------------------------------------------------------------------------------
+
+2. HAND ROTATION SOUND CONTROLS (FIST CLUTCH SYSTEM)
+--------------------------------------------------------------------------------
+Rotate / tilt your hand clockwise or counter-clockwise in front of the camera:
+NOTE: Rotary controls only activate when you form a CLOSED FIST!
+When your hand is OPEN (or doing any other gesture), rotation has NO effect,
+allowing you to comfortably return your hand to center (50% marker) while
+keeping your dialed volume and pitch shift locked in place!
+
+  [RIGHT HAND] -> PITCH SHIFT / BEND:
+    * Close Fist and rotate to adjust pitch offset (-12 to +12 semitones).
+    * Upright (0 deg): Natural base note (0 semitones).
+    * Tilt Right (Clockwise): Shifts pitch UP (+1 to +12 semitones / sharps).
+    * Tilt Left (Counter-Clockwise): Shifts pitch DOWN (-1 to -12 semitones / flats).
+    * Open your hand to LOCK the pitch shift and play notes freely!
+
+  [LEFT HAND] -> MASTER VOLUME DIAL:
+    * Close Fist and rotate to adjust master volume (0% to 100%).
+    * Tilt Left (-60 deg): 0% Volume (Mute).
+    * Upright (0 deg): 65% Volume (Standard listening level).
+    * Tilt Right (+60 deg): 100% Volume (Maximum loudness).
+    * Open your hand to LOCK the volume (move hand back to 50% marker freely)!
+
+3. MINIMALIST ON-SCREEN DISPLAY & MODES
+--------------------------------------------------------------------------------
+  * Video & Hand Skeleton: Clean, unobstructed camera view with glowing landmarks.
+  * Song Guide Mode [1]: Shows target note & symbol in vivid ORANGE. Guided play-along tutorial.
+  * Free Instrument Mode [2/F]: Freely plays whatever gesture is shown on screen without guidance.
+    Displays the detected note in vivid ORANGE with its symbol, pitch shift and volume controls.
+  * Rotation Meters: Real-time Pitch Shift (Right Hand) and Volume % (Left Hand).
+  * Digital Camera Top Cropping: Press [ or ] to dynamically fine-tune framing (-5% / +5%) to eliminate obstacles.
+  * No distracting song highway or lyric clutter on the camera stream!
+
+4. SONGS CATALOG & STEP-BY-STEP NOTE GUIDES
+--------------------------------------------------------------------------------
+
+==================== [ JINGLE BELLS ] ====================
+Composer: James Lord Pierpont  |  BPM: 120  |  Instrument: BELL
+Total Notes: 51
+--------------------------------------------------------------------------------
+#    NOTE   SYMBOL / GESTURE             BEATS   LYRIC
+--------------------------------------------------------------------------------
+1    E4     2 Fingers (Peace)            1.0     Jin-
+2    E4     2 Fingers (Peace)            1.0     gle
+3    E4     2 Fingers (Peace)            2.0     bells,
+4    E4     2 Fingers (Peace)            1.0     jin-
+5    E4     2 Fingers (Peace)            1.0     gle
+6    E4     2 Fingers (Peace)            2.0     bells,
+7    E4     2 Fingers (Peace)            1.0     jin-
+8    G4     4 Fingers                    1.0     gle
+9    C4     Closed Fist                  1.5     all
+10   D4     1 Finger (Index)             0.5     the
+11   E4     2 Fingers (Peace)            4.0     way!
+12   F4     3 Fingers                    1.0     Oh
+13   F4     3 Fingers                    1.0     what
+14   F4     3 Fingers                    1.5     fun
+15   F4     3 Fingers                    0.5     it
+16   F4     3 Fingers                    1.0     is
+17   E4     2 Fingers (Peace)            1.0     to
+18   E4     2 Fingers (Peace)            1.0     ride
+19   E4     2 Fingers (Peace)            0.5     in
+20   E4     2 Fingers (Peace)            0.5     a
+21   E4     2 Fingers (Peace)            1.0     one-
+22   D4     1 Finger (Index)             1.0     horse
+23   D4     1 Finger (Index)             1.0     o-
+24   E4     2 Fingers (Peace)            1.0     pen
+25   D4     1 Finger (Index)             2.0     sleigh,
+26   G4     4 Fingers                    2.0     hey!
+27   E4     2 Fingers (Peace)            1.0     Jin-
+28   E4     2 Fingers (Peace)            1.0     gle
+29   E4     2 Fingers (Peace)            2.0     bells,
+30   E4     2 Fingers (Peace)            1.0     jin-
+31   E4     2 Fingers (Peace)            1.0     gle
+32   E4     2 Fingers (Peace)            2.0     bells,
+33   E4     2 Fingers (Peace)            1.0     jin-
+34   G4     4 Fingers                    1.0     gle
+35   C4     Closed Fist                  1.5     all
+36   D4     1 Finger (Index)             0.5     the
+37   E4     2 Fingers (Peace)            4.0     way!
+38   F4     3 Fingers                    1.0     Oh
+39   F4     3 Fingers                    1.0     what
+40   F4     3 Fingers                    1.5     fun
+41   F4     3 Fingers                    0.5     it
+42   F4     3 Fingers                    1.0     is
+43   E4     2 Fingers (Peace)            1.0     to
+44   E4     2 Fingers (Peace)            1.0     ride
+45   E4     2 Fingers (Peace)            0.5     in
+46   E4     2 Fingers (Peace)            0.5     a
+47   G4     4 Fingers                    1.0     one-
+48   G4     4 Fingers                    1.0     horse
+49   F4     3 Fingers                    1.0     o-
+50   D4     1 Finger (Index)             1.0     pen
+51   C4     Closed Fist                  4.0     sleigh!
+
+==================== [ TWINKLE TWINKLE LITTLE STAR ] ====================
+Composer: Traditional  |  BPM: 100  |  Instrument: PIANO
+Total Notes: 42
+--------------------------------------------------------------------------------
+#    NOTE   SYMBOL / GESTURE             BEATS   LYRIC
+--------------------------------------------------------------------------------
+1    C4     Closed Fist                  1.0     Twin-
+2    C4     Closed Fist                  1.0     kle,
+3    G4     4 Fingers                    1.0     twin-
+4    G4     4 Fingers                    1.0     kle,
+5    A4     Open Palm (5 Fingers)        1.0     lit-
+6    A4     Open Palm (5 Fingers)        1.0     tle
+7    G4     4 Fingers                    2.0     star,
+8    F4     3 Fingers                    1.0     How
+9    F4     3 Fingers                    1.0     I
+10   E4     2 Fingers (Peace)            1.0     won-
+11   E4     2 Fingers (Peace)            1.0     der
+12   D4     1 Finger (Index)             1.0     what
+13   D4     1 Finger (Index)             1.0     you
+14   C4     Closed Fist                  2.0     are!
+15   G4     4 Fingers                    1.0     Up
+16   G4     4 Fingers                    1.0     a-
+17   F4     3 Fingers                    1.0     bove
+18   F4     3 Fingers                    1.0     the
+19   E4     2 Fingers (Peace)            1.0     world
+20   E4     2 Fingers (Peace)            1.0     so
+21   D4     1 Finger (Index)             2.0     high,
+22   G4     4 Fingers                    1.0     Like
+23   G4     4 Fingers                    1.0     a
+24   F4     3 Fingers                    1.0     dia-
+25   F4     3 Fingers                    1.0     mond
+26   E4     2 Fingers (Peace)            1.0     in
+27   E4     2 Fingers (Peace)            1.0     the
+28   D4     1 Finger (Index)             2.0     sky,
+29   C4     Closed Fist                  1.0     Twin-
+30   C4     Closed Fist                  1.0     kle,
+31   G4     4 Fingers                    1.0     twin-
+32   G4     4 Fingers                    1.0     kle,
+33   A4     Open Palm (5 Fingers)        1.0     lit-
+34   A4     Open Palm (5 Fingers)        1.0     tle
+35   G4     4 Fingers                    2.0     star,
+36   F4     3 Fingers                    1.0     How
+37   F4     3 Fingers                    1.0     I
+38   E4     2 Fingers (Peace)            1.0     won-
+39   E4     2 Fingers (Peace)            1.0     der
+40   D4     1 Finger (Index)             1.0     what
+41   D4     1 Finger (Index)             1.0     you
+42   C4     Closed Fist                  2.0     are!
+
+==================== [ ODE TO JOY ] ====================
+Composer: Ludwig van Beethoven  |  BPM: 110  |  Instrument: SYNTH
+Total Notes: 30
+--------------------------------------------------------------------------------
+#    NOTE   SYMBOL / GESTURE             BEATS   LYRIC
+--------------------------------------------------------------------------------
+1    E4     2 Fingers (Peace)            1.0     Joy
+2    E4     2 Fingers (Peace)            1.0     bright
+3    F4     3 Fingers                    1.0     spark
+4    G4     4 Fingers                    1.0     of
+5    G4     4 Fingers                    1.0     di-
+6    F4     3 Fingers                    1.0     vi-
+7    E4     2 Fingers (Peace)            1.0     ni-
+8    D4     1 Finger (Index)             1.0     ty,
+9    C4     Closed Fist                  1.0     Daugh-
+10   C4     Closed Fist                  1.0     ter
+11   D4     1 Finger (Index)             1.0     of
+12   E4     2 Fingers (Peace)            1.0     E-
+13   E4     2 Fingers (Peace)            1.5     ly-
+14   D4     1 Finger (Index)             0.5     si-
+15   D4     1 Finger (Index)             2.0     um,
+16   E4     2 Fingers (Peace)            1.0     We
+17   E4     2 Fingers (Peace)            1.0     trans-
+18   F4     3 Fingers                    1.0     port-
+19   G4     4 Fingers                    1.0     ed
+20   G4     4 Fingers                    1.0     by
+21   F4     3 Fingers                    1.0     thy
+22   E4     2 Fingers (Peace)            1.0     beau-
+23   D4     1 Finger (Index)             1.0     ty,
+24   C4     Closed Fist                  1.0     To
+25   C4     Closed Fist                  1.0     thy
+26   D4     1 Finger (Index)             1.0     ho-
+27   E4     2 Fingers (Peace)            1.0     ly
+28   D4     1 Finger (Index)             1.5     tem-
+29   C4     Closed Fist                  0.5     ple
+30   C4     Closed Fist                  2.0     come!
+
+==================== [ HAPPY BIRTHDAY ] ====================
+Composer: Patty and Mildred J. Hill  |  BPM: 100  |  Instrument: VIOLIN
+Total Notes: 25
+--------------------------------------------------------------------------------
+#    NOTE   SYMBOL / GESTURE             BEATS   LYRIC
+--------------------------------------------------------------------------------
+1    C4     Closed Fist                  0.8     Hap-
+2    C4     Closed Fist                  0.2     py
+3    D4     1 Finger (Index)             1.0     birth-
+4    C4     Closed Fist                  1.0     day
+5    F4     3 Fingers                    1.0     to
+6    E4     2 Fingers (Peace)            2.0     you,
+7    C4     Closed Fist                  0.8     Hap-
+8    C4     Closed Fist                  0.2     py
+9    D4     1 Finger (Index)             1.0     birth-
+10   C4     Closed Fist                  1.0     day
+11   G4     4 Fingers                    1.0     to
+12   F4     3 Fingers                    2.0     you,
+13   C4     Closed Fist                  0.8     Hap-
+14   C4     Closed Fist                  0.2     py
+15   C5     Pinch / Tip Touch            1.0     birth-
+16   A4     Open Palm (5 Fingers)        1.0     day
+17   F4     3 Fingers                    1.0     dear
+18   E4     2 Fingers (Peace)            1.0     friend,
+19   D4     1 Finger (Index)             2.0     
+20   Bb4    Rock On (Index + Pinky)      0.8     Hap-
+21   Bb4    Rock On (Index + Pinky)      0.2     py
+22   A4     Open Palm (5 Fingers)        1.0     birth-
+23   F4     3 Fingers                    1.0     day
+24   G4     4 Fingers                    1.0     to
+25   F4     3 Fingers                    2.0     you!
+
+==================== [ MARY HAD A LITTLE LAMB ] ====================
+Composer: Traditional  |  BPM: 110  |  Instrument: BELL
+Total Notes: 26
+--------------------------------------------------------------------------------
+#    NOTE   SYMBOL / GESTURE             BEATS   LYRIC
+--------------------------------------------------------------------------------
+1    E4     2 Fingers (Peace)            1.0     Ma-
+2    D4     1 Finger (Index)             1.0     ry
+3    C4     Closed Fist                  1.0     had
+4    D4     1 Finger (Index)             1.0     a
+5    E4     2 Fingers (Peace)            1.0     lit-
+6    E4     2 Fingers (Peace)            1.0     tle
+7    E4     2 Fingers (Peace)            2.0     lamb,
+8    D4     1 Finger (Index)             1.0     lit-
+9    D4     1 Finger (Index)             1.0     tle
+10   D4     1 Finger (Index)             2.0     lamb,
+11   E4     2 Fingers (Peace)            1.0     lit-
+12   G4     4 Fingers                    1.0     tle
+13   G4     4 Fingers                    2.0     lamb!
+14   E4     2 Fingers (Peace)            1.0     Ma-
+15   D4     1 Finger (Index)             1.0     ry
+16   C4     Closed Fist                  1.0     had
+17   D4     1 Finger (Index)             1.0     a
+18   E4     2 Fingers (Peace)            1.0     lit-
+19   E4     2 Fingers (Peace)            1.0     tle
+20   E4     2 Fingers (Peace)            1.0     lamb,
+21   E4     2 Fingers (Peace)            1.0     its
+22   D4     1 Finger (Index)             1.0     fleece
+23   D4     1 Finger (Index)             1.0     was
+24   E4     2 Fingers (Peace)            1.0     white
+25   D4     1 Finger (Index)             1.0     as
+26   C4     Closed Fist                  4.0     snow!
+
+==================== [ FÜR ELISE ] ====================
+Composer: Ludwig van Beethoven  |  BPM: 110  |  Instrument: PIANO
+Total Notes: 26
+--------------------------------------------------------------------------------
+#    NOTE   SYMBOL / GESTURE             BEATS   LYRIC
+--------------------------------------------------------------------------------
+1    E5     Hang Loose / Shaka           0.5     Für
+2    D#4    1 Finger (Index)             0.5     E-
+3    E5     Hang Loose / Shaka           0.5     lise,
+4    D#4    1 Finger (Index)             0.5     Für
+5    E5     Hang Loose / Shaka           0.5     E-
+6    B4     Thumbs Up                    0.5     lise,
+7    D5     Rock On (Index + Pinky)      0.5     so
+8    C5     Pinch / Tip Touch            0.5     sweet,
+9    A4     Open Palm (5 Fingers)        2.0     fair!
+10   C4     Closed Fist                  0.5     In
+11   E4     2 Fingers (Peace)            0.5     the
+12   A4     Open Palm (5 Fingers)        0.5     morn-
+13   B4     Thumbs Up                    2.0     ing,
+14   E4     2 Fingers (Peace)            0.5     mu-
+15   G#4    4 Fingers                    0.5     sic
+16   B4     Thumbs Up                    0.5     fills
+17   C5     Pinch / Tip Touch            2.0     air!
+18   E5     Hang Loose / Shaka           0.5     Für
+19   D#4    1 Finger (Index)             0.5     E-
+20   E5     Hang Loose / Shaka           0.5     lise,
+21   D#4    1 Finger (Index)             0.5     Für
+22   E5     Hang Loose / Shaka           0.5     E-
+23   B4     Thumbs Up                    0.5     lise,
+24   D5     Rock On (Index + Pinky)      0.5     so
+25   C5     Pinch / Tip Touch            0.5     sweet,
+26   A4     Open Palm (5 Fingers)        2.5     fair!
+
+================================================================================
